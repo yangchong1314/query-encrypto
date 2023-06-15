@@ -27,7 +27,9 @@
     "eslint-plugin-vue": "^6.2.2"
   },
   "keywords": [
-    "query-encrypto"
+    "query-encrypto",
+    "vue-router",
+    "router参数加密"
   ],
   "author": "yangchong",
   "license": "MIT"
