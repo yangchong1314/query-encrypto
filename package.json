@@ -1,6 +1,6 @@
 {
-  "name": "@yc/query-encrypto",
-  "version": "1.0.0",
+  "name": "query-encrypto",
+  "version": "1.0.1",
   "description": "router参数加密",
   "main": "lib/query-encrypto.umd.min.js",
   "private": false,
